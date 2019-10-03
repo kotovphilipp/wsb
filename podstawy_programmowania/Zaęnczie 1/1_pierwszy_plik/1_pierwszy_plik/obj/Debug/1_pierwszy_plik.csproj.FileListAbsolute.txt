@@ -1,0 +1,7 @@
+C:\git\podstawy_programmowania\Zaęnczie 1\1_pierwszy_plik\1_pierwszy_plik\bin\Debug\1_pierwszy_plik.exe.config
+C:\git\podstawy_programmowania\Zaęnczie 1\1_pierwszy_plik\1_pierwszy_plik\bin\Debug\1_pierwszy_plik.exe
+C:\git\podstawy_programmowania\Zaęnczie 1\1_pierwszy_plik\1_pierwszy_plik\bin\Debug\1_pierwszy_plik.pdb
+C:\git\podstawy_programmowania\Zaęnczie 1\1_pierwszy_plik\1_pierwszy_plik\obj\Debug\1_pierwszy_plik.csprojAssemblyReference.cache
+C:\git\podstawy_programmowania\Zaęnczie 1\1_pierwszy_plik\1_pierwszy_plik\obj\Debug\1_pierwszy_plik.csproj.CoreCompileInputs.cache
+C:\git\podstawy_programmowania\Zaęnczie 1\1_pierwszy_plik\1_pierwszy_plik\obj\Debug\1_pierwszy_plik.exe
+C:\git\podstawy_programmowania\Zaęnczie 1\1_pierwszy_plik\1_pierwszy_plik\obj\Debug\1_pierwszy_plik.pdb
