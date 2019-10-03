@@ -1,4 +1,3 @@
 wsb
-wsb
 Studia
-Poznan
+Poznań
