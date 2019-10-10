@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\2_literacja_for\2_literacja_for\bin\Debug\2_literacja_for.exe.config
+C:\Users\Student\source\repos\2_literacja_for\2_literacja_for\bin\Debug\2_literacja_for.exe
+C:\Users\Student\source\repos\2_literacja_for\2_literacja_for\bin\Debug\2_literacja_for.pdb
+C:\Users\Student\source\repos\2_literacja_for\2_literacja_for\obj\Debug\2_literacja_for.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\2_literacja_for\2_literacja_for\obj\Debug\2_literacja_for.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\2_literacja_for\2_literacja_for\obj\Debug\2_literacja_for.exe
+C:\Users\Student\source\repos\2_literacja_for\2_literacja_for\obj\Debug\2_literacja_for.pdb
