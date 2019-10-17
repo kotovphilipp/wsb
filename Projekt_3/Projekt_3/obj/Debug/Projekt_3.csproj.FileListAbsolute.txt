@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\Projekt_3\Projekt_3\bin\Debug\Projekt_3.exe.config
+C:\Users\Student\source\repos\Projekt_3\Projekt_3\bin\Debug\Projekt_3.exe
+C:\Users\Student\source\repos\Projekt_3\Projekt_3\bin\Debug\Projekt_3.pdb
+C:\Users\Student\source\repos\Projekt_3\Projekt_3\obj\Debug\Projekt_3.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Projekt_3\Projekt_3\obj\Debug\Projekt_3.exe
+C:\Users\Student\source\repos\Projekt_3\Projekt_3\obj\Debug\Projekt_3.pdb
