@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funkcje4", "Funkcje4\Funkcje4.csproj", "{937629F8-351B-4576-8564-E20C53C65768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{937629F8-351B-4576-8564-E20C53C65768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937629F8-351B-4576-8564-E20C53C65768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937629F8-351B-4576-8564-E20C53C65768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937629F8-351B-4576-8564-E20C53C65768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35574C24-2C38-4BBB-A985-80C2931FBDAA}
+	EndGlobalSection
+EndGlobal

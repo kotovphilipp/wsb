@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\Phil2\Phil2\bin\Debug\Phil2.exe.config
+C:\Users\Student\source\repos\Phil2\Phil2\bin\Debug\Phil2.exe
+C:\Users\Student\source\repos\Phil2\Phil2\bin\Debug\Phil2.pdb
+C:\Users\Student\source\repos\Phil2\Phil2\obj\Debug\Phil2.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Phil2\Phil2\obj\Debug\Phil2.exe
+C:\Users\Student\source\repos\Phil2\Phil2\obj\Debug\Phil2.pdb

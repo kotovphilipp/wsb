@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\Philipp.1\Philipp.1\bin\Debug\Philipp.1.exe.config
+C:\Users\Student\source\repos\Philipp.1\Philipp.1\bin\Debug\Philipp.1.exe
+C:\Users\Student\source\repos\Philipp.1\Philipp.1\bin\Debug\Philipp.1.pdb
+C:\Users\Student\source\repos\Philipp.1\Philipp.1\obj\Debug\Philipp.1.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Philipp.1\Philipp.1\obj\Debug\Philipp.1.exe
+C:\Users\Student\source\repos\Philipp.1\Philipp.1\obj\Debug\Philipp.1.pdb

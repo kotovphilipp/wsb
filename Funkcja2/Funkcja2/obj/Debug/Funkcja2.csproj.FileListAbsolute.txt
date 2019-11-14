@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\Funkcja2\Funkcja2\bin\Debug\Funkcja2.exe.config
+C:\Users\Student\source\repos\Funkcja2\Funkcja2\bin\Debug\Funkcja2.exe
+C:\Users\Student\source\repos\Funkcja2\Funkcja2\bin\Debug\Funkcja2.pdb
+C:\Users\Student\source\repos\Funkcja2\Funkcja2\obj\Debug\Funkcja2.exe
+C:\Users\Student\source\repos\Funkcja2\Funkcja2\obj\Debug\Funkcja2.pdb
+C:\Users\Student\source\repos\Funkcja2\Funkcja2\obj\Debug\Funkcja2.csprojAssemblyReference.cache
