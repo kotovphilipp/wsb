@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\Zaecie posle kollokwiuma\Zaecie posle kollokwiuma\bin\Debug\Zaecie posle kollokwiuma.exe.config
+C:\Users\Student\source\repos\Zaecie posle kollokwiuma\Zaecie posle kollokwiuma\bin\Debug\Zaecie posle kollokwiuma.exe
+C:\Users\Student\source\repos\Zaecie posle kollokwiuma\Zaecie posle kollokwiuma\bin\Debug\Zaecie posle kollokwiuma.pdb
+C:\Users\Student\source\repos\Zaecie posle kollokwiuma\Zaecie posle kollokwiuma\obj\Debug\Zaecie posle kollokwiuma.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Zaecie posle kollokwiuma\Zaecie posle kollokwiuma\obj\Debug\Zaecie posle kollokwiuma.exe
+C:\Users\Student\source\repos\Zaecie posle kollokwiuma\Zaecie posle kollokwiuma\obj\Debug\Zaecie posle kollokwiuma.pdb

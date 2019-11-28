@@ -1,0 +1,5 @@
+C:\Users\Student\source\repos\Wskazniki_3\Wskazniki_3\bin\Debug\Wskazniki_3.exe.config
+C:\Users\Student\source\repos\Wskazniki_3\Wskazniki_3\bin\Debug\Wskazniki_3.exe
+C:\Users\Student\source\repos\Wskazniki_3\Wskazniki_3\bin\Debug\Wskazniki_3.pdb
+C:\Users\Student\source\repos\Wskazniki_3\Wskazniki_3\obj\Debug\Wskazniki_3.exe
+C:\Users\Student\source\repos\Wskazniki_3\Wskazniki_3\obj\Debug\Wskazniki_3.pdb
