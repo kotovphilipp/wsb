@@ -1,0 +1,9 @@
+C:\Users\Student\source\repos\zanyatie\zanyatie\bin\Debug\zanyatie.exe.config
+C:\Users\Student\source\repos\zanyatie\zanyatie\bin\Debug\zanyatie.exe
+C:\Users\Student\source\repos\zanyatie\zanyatie\bin\Debug\zanyatie.pdb
+C:\Users\Student\source\repos\zanyatie\zanyatie\obj\Debug\zanyatie.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\zanyatie\zanyatie\obj\Debug\zanyatie.Form1.resources
+C:\Users\Student\source\repos\zanyatie\zanyatie\obj\Debug\zanyatie.Properties.Resources.resources
+C:\Users\Student\source\repos\zanyatie\zanyatie\obj\Debug\zanyatie.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\zanyatie\zanyatie\obj\Debug\zanyatie.exe
+C:\Users\Student\source\repos\zanyatie\zanyatie\obj\Debug\zanyatie.pdb
