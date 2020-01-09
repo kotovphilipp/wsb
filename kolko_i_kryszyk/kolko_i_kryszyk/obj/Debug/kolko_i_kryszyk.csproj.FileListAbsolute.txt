@@ -1,0 +1,9 @@
+C:\Users\Student\source\repos\kolko_i_kryszyk\kolko_i_kryszyk\obj\Debug\kolko_i_kryszyk.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\kolko_i_kryszyk\kolko_i_kryszyk\obj\Debug\kolko_i_kryszyk.Form1.resources
+C:\Users\Student\source\repos\kolko_i_kryszyk\kolko_i_kryszyk\obj\Debug\kolko_i_kryszyk.Properties.Resources.resources
+C:\Users\Student\source\repos\kolko_i_kryszyk\kolko_i_kryszyk\obj\Debug\kolko_i_kryszyk.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\kolko_i_kryszyk\kolko_i_kryszyk\bin\Debug\kolko_i_kryszyk.exe.config
+C:\Users\Student\source\repos\kolko_i_kryszyk\kolko_i_kryszyk\bin\Debug\kolko_i_kryszyk.exe
+C:\Users\Student\source\repos\kolko_i_kryszyk\kolko_i_kryszyk\bin\Debug\kolko_i_kryszyk.pdb
+C:\Users\Student\source\repos\kolko_i_kryszyk\kolko_i_kryszyk\obj\Debug\kolko_i_kryszyk.exe
+C:\Users\Student\source\repos\kolko_i_kryszyk\kolko_i_kryszyk\obj\Debug\kolko_i_kryszyk.pdb
