@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\1_connect_db\1_connect_db\bin\Debug\1_connect_db.exe.config
+C:\Users\Student\source\repos\1_connect_db\1_connect_db\bin\Debug\1_connect_db.exe
+C:\Users\Student\source\repos\1_connect_db\1_connect_db\bin\Debug\1_connect_db.pdb
+C:\Users\Student\source\repos\1_connect_db\1_connect_db\obj\Debug\1_connect_db.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\1_connect_db\1_connect_db\obj\Debug\1_connect_db.exe
+C:\Users\Student\source\repos\1_connect_db\1_connect_db\obj\Debug\1_connect_db.pdb
